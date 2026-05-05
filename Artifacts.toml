@@ -1,0 +1,92 @@
+[[GAP_pkg_normalizinterface]]
+arch = "aarch64"
+git-tree-sha1 = "ef4169cadc6f131da86e2ccd2c3229af35daafec"
+os = "macos"
+
+    [[GAP_pkg_normalizinterface.download]]
+    sha256 = "285909c7dc9703ae3bf1631be95b39dfffec695690a2569b807a8034969f66ad"
+    url = "https://github.com/lgoettgens/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v101.50000.0+0/GAP_pkg_normalizinterface.v101.50000.0.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_normalizinterface]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7dc235518f432272d03731748d5e8da5a5c1a2bb"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_normalizinterface.download]]
+    sha256 = "d92484527a3df5cbe4008ebe82fb0dec9fd50e29c42dd103acacf3b5d91f4697"
+    url = "https://github.com/lgoettgens/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v101.50000.0+0/GAP_pkg_normalizinterface.v101.50000.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_normalizinterface]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "15c4623ca1ef7977148c4f076f66d3a4c00b98ad"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_normalizinterface.download]]
+    sha256 = "ba28a4031573b59dc45a0ccb5396cde6c09f406158e974210735350679a9f66a"
+    url = "https://github.com/lgoettgens/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v101.50000.0+0/GAP_pkg_normalizinterface.v101.50000.0.aarch64-linux-musl-cxx11.tar.gz"
+[[GAP_pkg_normalizinterface]]
+arch = "aarch64"
+git-tree-sha1 = "b1f1e342c911a6758d302907f5cba84192a467db"
+os = "freebsd"
+
+    [[GAP_pkg_normalizinterface.download]]
+    sha256 = "ef3538edb5371129d0240b817e4dee0a0c8086fc0056db5cdfb593d3a2ec6b05"
+    url = "https://github.com/lgoettgens/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v101.50000.0+0/GAP_pkg_normalizinterface.v101.50000.0.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_normalizinterface]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "be8d8f71b28343441aa67cb4b79dcdc43f38dd5f"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_normalizinterface.download]]
+    sha256 = "83da134fe668ef62e503f16cccef0131b90fa73800d681de41cea5895f1b6b9c"
+    url = "https://github.com/lgoettgens/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v101.50000.0+0/GAP_pkg_normalizinterface.v101.50000.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_normalizinterface]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4bb28f4f18322aa33d7f157acca830582ee5ffd9"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_normalizinterface.download]]
+    sha256 = "94ea43080e85029720b21383e21dd897cf95d9be9aa3250b235cd6b172b37f2b"
+    url = "https://github.com/lgoettgens/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v101.50000.0+0/GAP_pkg_normalizinterface.v101.50000.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_normalizinterface]]
+arch = "x86_64"
+git-tree-sha1 = "1b9a38cfa3b7d08438d9125c147cab2fae218c9e"
+os = "macos"
+
+    [[GAP_pkg_normalizinterface.download]]
+    sha256 = "28efa728a7ddc71c8e2958df896bd83b19684ec3b2f3208242fe248fef41aa97"
+    url = "https://github.com/lgoettgens/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v101.50000.0+0/GAP_pkg_normalizinterface.v101.50000.0.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_normalizinterface]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c801588db9b3e82c81ce30250af22d1272c625c6"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_normalizinterface.download]]
+    sha256 = "7798597cdb35aadefd752e4aec760626ab092521b4ebdead104f88420e263603"
+    url = "https://github.com/lgoettgens/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v101.50000.0+0/GAP_pkg_normalizinterface.v101.50000.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_normalizinterface]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f1e862e41026d2b505bc4d916e33af6654371e10"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_normalizinterface.download]]
+    sha256 = "14e063ca0ffe7dee8aa5e861f955a5edea9e29e8c737c5e828bfaddb3ee9157d"
+    url = "https://github.com/lgoettgens/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v101.50000.0+0/GAP_pkg_normalizinterface.v101.50000.0.x86_64-linux-musl-cxx11.tar.gz"
+[[GAP_pkg_normalizinterface]]
+arch = "x86_64"
+git-tree-sha1 = "47242e211330ae6a1b5a3d3ea1c5285deb23d227"
+os = "freebsd"
+
+    [[GAP_pkg_normalizinterface.download]]
+    sha256 = "a8655134a348c5b9dad059ef03f8d6895cdd6d0040cbc2e44c2961323593e84e"
+    url = "https://github.com/lgoettgens/GAP_pkg_normalizinterface_jll.jl/releases/download/GAP_pkg_normalizinterface-v101.50000.0+0/GAP_pkg_normalizinterface.v101.50000.0.x86_64-unknown-freebsd.tar.gz"
